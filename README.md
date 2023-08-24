@@ -10,8 +10,8 @@ They'd like a data engineer to create an Apache Cassandra database which can cre
 ## Project Data
 There's one dataset: event_data. The directory of CSV files partitioned by date. Here are examples of filepaths to two files in the dataset:
 
-event_data/2018-11-08-events.csv
-event_data/2018-11-09-events.csv
+event_data/2018-11-08-events.csv <br/>
+event_data/2018-11-09-events.csv <br/>
 Denormalized Dataset in event_datafile_new.csv file
 ![image](https://github.com/ajinjue/Data_Modelling_with_Cassandra/assets/100845693/1621c6cd-c821-4c2c-a2bd-10f8c1fc925f)
 
