@@ -15,4 +15,11 @@ event_data/2018-11-09-events.csv <br/>
 Denormalized Dataset in event_datafile_new.csv file
 ![image](https://github.com/ajinjue/Data_Modelling_with_Cassandra/assets/100845693/1621c6cd-c821-4c2c-a2bd-10f8c1fc925f)
 
+## Project Files and How to run Script
+
+1. event_data: To process and create a new CSV file in Python.
+2. Project.ipynb: The code file.
+3. event_datafile_new.csv: Dataset to create a denormalized dataset.
+4. images: contain images.
+5. README.md: Provides discussion on the project.
 
