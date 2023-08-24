@@ -18,8 +18,10 @@ Denormalized Dataset in event_datafile_new.csv file
 ## Project Files and How to run Script
 
 1. event_data: To process and create a new CSV file in Python.
-2. Project.ipynb: The code file.
+2. Project_ETL.ipynb: The code file.
 3. event_datafile_new.csv: Dataset to create a denormalized dataset.
 4. images: contain images.
 5. README.md: Provides discussion on the project.
+
+To launch the project, open Project_ETL.ipynb in a jupyter notebook and run all the code cells
 
